@@ -13,7 +13,7 @@ namespace MyNameSpaceChild
         {
             WriteLine("Hello, how are you bro?");
         }
-        
+        // Luwu Huy Thành
     }
     public class Test2
     {
